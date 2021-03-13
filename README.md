@@ -28,6 +28,16 @@ Traitement à la main
 
 ```
 
+- Remplacer
+
+```
+^\n([a-z])
+
+# par
+
+$1
+```
+
 - Supprimer les break-line "-­‐ "
 
 A checker

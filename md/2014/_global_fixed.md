@@ -285,7 +285,6 @@ des victimes comme des intervenants.
 Le nombre, l’âge apparent (nourrisson, enfant, adulte, personne âgée),
 la nature (malade, traumatisé) et l’état approximatif des victimes
 (victime qui marche, inerte,
-
 qui bouge, qui ne bouge pas) sont déterminés lors de l’évaluation de
 la situation réalisée en arrivant sur l’intervention. Parfois, ce
 recueil nécessite une reconnaissance approfondie des lieux (victime
@@ -457,7 +456,6 @@ L’évaluation de la respiration est faite en observant la victime, en
 comptant la fréquence des mouvements respiratoires, en appréciant
 l’amplitude et la régularité de la respiration et en examinant sa peau
 et ses muqueuses. En
-
 complément de l’évaluation de la respiration, la mise en place d’un
 oxymètre de pouls peut permettre la mesure de la saturation pulsatile
 en oxygène.
@@ -751,7 +749,6 @@ les points douloureux, parfois non exprimés.
 Si le traumatisme a été violent ou si la victime traumatisée présente
 un trouble de la conscience, le maintien tête ainsi que la pose d’un
 collier cervical
-
 doivent être réalisés, si possible, avant de rechercher les lésions.
 
 A l’issue du bilan complémentaire :
@@ -936,7 +933,6 @@ Ces mesures de protection passent par l’application des précautions
 _standards_ et _particulières_ pour lutter contre les infections.
 
 Simple, léger et efficace, l’équipement de protection
-
 individuelle doit participer et favoriser à la sécurité de
 l’intervenant. En fonction des missions, il comprend :
 
@@ -1465,7 +1461,6 @@ alors d’un liquide biologique à risque prouvé.
 
 En dehors de toute maladie, le sang est normalement stérile.
 Toutefois, le sang ainsi que les liquides
-
 biologiques peuvent véhiculer des agents infectieux divers comme les
 bactéries, les champignons, les parasites, les virus.
 
@@ -1996,7 +1991,6 @@ Parfois, ces signes peuvent être accompagnés de convulsions brèves.
 
 La recherche d’un pouls n’est pas systématique pour caractériser l’AC.
 Toutefois, si elle est effectuée, elle ne
-
 doit pas retarder la mise en œuvre des gestes de secours. Cette
 recherche se fait au niveau :
 
@@ -3813,7 +3807,6 @@ traumatique, médicale ou toxique.
 ## Risques & Conséquences
 
 Une perte de connaissance peut évoluer, en l’absence
-
 d’intervention, vers un arrêt respiratoire puis cardiaque. Une
 personne qui a perdu connaissance, laissée sur le dos, est toujours
 exposée à des difficultés respiratoires, du fait :
@@ -7364,7 +7357,6 @@ C’est le bilan circonstanciel qui permet d’évoquer la noyade.
 En fonction du temps passé dans l’eau, de l’âge et des antécédents, la
 victime peut présenter, au bilan d’urgence vitale et complémentaire,
 un état de gravité
-
 différent. Ainsi, il est possible de se trouver en présence d’une
 victime :
 
@@ -10299,7 +10291,6 @@ quelques mois).
 
 Une tentative de suicide n’est jamais un acte anodin. Quels que soient
 le geste et ses conséquences, la
-
 victime doit toujours être accompagnée à l’hôpital, sauf avis
 contraire du médecin régulateur.
 
@@ -10356,7 +10347,6 @@ personnes.
 Les manifestations d’ordre émotionnel présentées par les membres de la
 famille à l’annonce d’un décès sont l’expression d’une douleur morale,
 d’une souffrance
-
 psychique : elles sont naturelles et leur abord ne relève pas
 nécessairement d’un professionnel de la santé mentale. Une assistance
 empreinte d’humanité, proche, simple et discrète peut réconforter
@@ -11463,7 +11453,6 @@ et coordonne les maillons de la chaine de secours. Cette organisation
 s’appui sur la planification ORSEC1.
 
 Un certain nombre de victimes seront aussi découvertes
-
 en arrêt cardiaque ou mortes. Les corps peuvent être intacts ou
 fortement mutilés.
 
@@ -11573,8 +11562,7 @@ ses mouvements.
 - la faiblesse musculaire d’un membre supérieur. Elle est recherchée
   en demandant à la victime (assise ou allongée) de fermer les yeux
   et
-
-d’étendre les bras devant elle pendant dix secondes.
+  d’étendre les bras devant elle pendant dix secondes.
 
 La réaction est normale si les deux bras bougent et s’élèvent
 symétriquement.
@@ -11627,7 +11615,6 @@ mouvement, chute de faible hauteur).
 Cette recherche est étendue sur la totalité du corps de la victime
 lorsque le traumatisme a été violent ou si la victime présente un
 trouble de la conscience, en
-
 regardant et en palpant si nécessaire. Pour cela, il convient
 d’examiner successivement :
 
@@ -11833,8 +11820,7 @@ la victime.
 Il convient de faire préciser si la victime :
 
 - présente une maladie connue ou si elle a déjà présenté des malaises
-
-gravité du malaise.
+  gravité du malaise.
 
 - les caractéristiques du trouble ressenti.
 
@@ -12321,7 +12307,6 @@ auriculaire.
   soin.
 
 Un signal sonore annonce le résultat après
-
 environ soixante secondes de prise.
 
 En fonction de la localisation de la mesure, il faut ajouter au
@@ -13020,10 +13005,8 @@ Si la victime est invalide :
 - identifier la victime d’une couleur jaune. Aucun geste de secours
   n’est à réaliser sur place. La victime sera prise en charge dès
   que
-
-possible, après un éventuel déplacement au
-
-poste médical avancé.
+  possible, après un éventuel déplacement au
+  poste médical avancé.
 
 Dans le cas contraire :
 
@@ -13118,8 +13101,7 @@ Le dégagement d’urgence d’une victime est réalisé pour :
 - Saisir la victime par ses vêtements ;
 
 - tirer la victime sur le sol, jusqu'à ce qu’elle soit en lieu sûr.
-
-immédiat et non contrôlable ;
+  immédiat et non contrôlable ;
 
 - rendre possible les gestes d’urgence vitale sur une victime se
   trouvant dans un lieu ou dans une position ne permettant pas de
@@ -13145,8 +13127,7 @@ secours
   contact avec le sol ;
 
 - tirer la victime à reculons, jusqu'à ce qu’elle soit en lieu sûr.
-
-d’urgence et la surveillance de la victime.
+  d’urgence et la surveillance de la victime.
 
 Sortie d’un véhicule
 
@@ -13540,7 +13521,6 @@ Elles protègent l’intervenant contre les projections sur ses
 vêtements.
 
 Lors de la prise en charge d’une victime porteuse de
-
 germes infectieux, les moyens de protection ont pour objectifs de
 limiter le risque de contamination :
 
@@ -13552,8 +13532,7 @@ L’équipement avec ces moyens de protection peut être complet ou
 partiel.
 
 - par voie aérienne (postillons, gouttes de
-
-salive).
+  salive).
 
 ## Matériel
 
@@ -13588,8 +13567,7 @@ figurant ci-dessous :
 - mettre en place la charlotte, ou la cagoule ; Lors de la mise en
   place de la charlotte ou de la cagoule, il convient de veiller à
   ce qu’elle
-
-recouvre la totalité des cheveux.
+  recouvre la totalité des cheveux.
 
 - mettre en place la sur-blouse ;
 
@@ -14523,9 +14501,8 @@ A l’issue du nettoyage-désinfection :
 
 - pulvériser une solu tion détergentedésinfectante sur ce matériel
   à l’aide d’un pulvérisateur ou d’un spray en veillant à ne pas
-
-projeter directement la solution sur les parties électriques sensibles
-;
+  projeter directement la solution sur les parties électriques sensibles
+  ;
 
 - étaler la solution pulvérisée sur ce matériel à l’aide d’une lavette
 
@@ -14659,10 +14636,8 @@ des gants à
 
 - jeter les gants dans un conteneur de déchets d’activité de soins
   prévu à cet effet.
-
-usage unique a donc pour but d’éviter cette
-
-contamination.
+  usage unique a donc pour but d’éviter cette
+  contamination.
 
 Les gants retirés font partie des déchets d’activité de soins à risque
 infectieux (DASRI).
@@ -14854,8 +14829,7 @@ collecteurs en carton ou des grands récipients.
 Il est indispensable de manipuler les DASRI avec des gants.
 
 - les déchets mous : compresses, pansements,
-
-champs, draps à usage unique…
+  champs, draps à usage unique…
 
 ## Justification
 
@@ -15684,8 +15658,7 @@ saignement.
 - gants à usage unique ;
 
 - paquet de compresses, pansement _américain_
-
-ou tissu propre (mouchoir, torchon, vêtement).
+  ou tissu propre (mouchoir, torchon, vêtement).
 
 ## Réalisation
 
@@ -16548,7 +16521,6 @@ Il est possible de s’aider du pouce pour saisir le menton ;
   qui sont restées en place.
 
 élévation du menton permet de dégager la langue de la
-
 paroi postérieure du pharynx et la libre circulation de l’air. Chez le
 nourrisson, du fait de son anatomie, ce mouvement doit se limiter à
 ramener la tête en position neutre afin de ne pas entraîner une
@@ -16704,7 +16676,6 @@ La libération des voies aériennes est efficace si :
 ## Indication Réalisation
 
 La mise en place d’une canule oro-pharyngée est
-
 autorisée si la victime présente un arrêt cardiaque et que le
 secouriste a des difficultés à maintenir les voies aériennes de la
 victime libres pour réaliser une ventilation artificielle à l’aide
@@ -17112,8 +17083,7 @@ médicalisés. Pour cela :
   l’appareil.
 
   - sortir les électrodes de leur emballage, enlever
-
-la pellicule de protection ;
+    la pellicule de protection ;
 
 - coller les électrodes sur la poitrine nue de la victime,
 
@@ -17131,8 +17101,7 @@ Toutefois, des précautions d’utilisation doivent être prises dans
 certaines circonstances.
 
 - l’autre sur le côté gauche du thorax, 5 à 10
-
-cm au-dessous de l’aisselle gauche.
+  cm au-dessous de l’aisselle gauche.
 
 Les électrodes doivent adhérer correctement à la peau.
 
@@ -17162,7 +17131,6 @@ Chez l’enfant, les électrodes sont placées comme chez l’adulte, en
 respectant les recommandations du fabricant (schéma sur l’enveloppe
 des électrodes ou sur les électrodes elles-mêmes). Toutefois, si le
 secouriste est amené à utiliser des électrodes
-
 adulte chez un enfant ou un nourrisson, afin d’éviter que les deux
 électrodes n’entrent en contact, il placera une électrode dans le dos,
 entre les deux omoplates et l’autre devant au milieu du thorax.
@@ -17213,7 +17181,6 @@ Le secouriste doit :
 
 Afin de rendre le choc efficace, les secouristes doivent essayer de
 supprimer rapidement tout
-
 contact de la victime avec une surface métallique ou conductrice dans
 la mesure où cela ne retardera pas la réalisation d’un choc. Pour
 cela, ils peuvent la tirer sur le sol vers une zone non conductrice ou
@@ -17518,10 +17485,8 @@ Toutefois, il convient de :
 - entourer sa bouche autour de la bouche et du nez de la victime ;
 
 - insuffler des volumes d’air sensiblement moindres que pour l’enfant.
-
-l’index, tout en maintenant la bascule en
-
-arrière de la tête avec la main qui est placée sur le front ;
+  l’index, tout en maintenant la bascule en
+  arrière de la tête avec la main qui est placée sur le front ;
 
 - ouvrir légèrement la bouche de la victime en utilisant l’autre main
   et maintenir le menton élevé ;
@@ -17531,7 +17496,6 @@ arrière de la tête avec la main qui est placée sur le front ;
 Une insufflation trop rapide ou d’un volume d’air trop important peut
 entraîner un passage de l’air dans l’estomac et secondairement une
 régurgitation de son
-
 contenu. Ceci est plus fréquent chez l’enfant et le nouveau-né qui
 ont besoin de volumes d’air beaucoup moins importants que l’adulte.
 
@@ -18089,10 +18053,8 @@ niveau du cerveau.
 - masque à inhalation à «haute concentration» ; Le masque à haute
   concentration est un dispositif d’administration d’oxygène sans
   ré-
-
-inspiration (la victime n’inhale pas l’air qu’elle
-
-expire).
+  inspiration (la victime n’inhale pas l’air qu’elle
+  expire).
 
 Ce masque est muni d’un réservoir d’oxygène situé au-dessous d’une
 valve anti-retour qui empêche la victime de rejeter l’air expiré
@@ -18190,9 +18152,8 @@ la victime. Elle est indiquée :
 - demander à la victime de fermer la bouche et de ne pas avaler.
 
   - soit pour soulager, diminuer ou faire
-
-disparaître une douleur qui est apparue au moment du malaise ou qui
-vient de s’aggraver ;
+    disparaître une douleur qui est apparue au moment du malaise ou qui
+    vient de s’aggraver ;
 
 - soit pour améliorer l’état respiratoire (crise d’asthme) ou
   circulatoire (réaction allergique grave).
@@ -18214,10 +18175,8 @@ peut limiter ou
   faire elle même ;
 
 - demander à la victime d’avaler le comprimé avec un peu d’eau.
-
-retarder cette aggravation et prévenir la survenue d’une
-
-détresse.
+  retarder cette aggravation et prévenir la survenue d’une
+  détresse.
 
 ## Matériel
 
@@ -18356,8 +18315,7 @@ L’administration du médicament améliore l’état de la victime.
 ## Indication
 
 - chasser l’air en excédent1 tiquement la poche ;
-
-et fermer hermé-
+  et fermer hermé-
 
 Cette technique est indiquée chez une victime consciente qui présente
 :
@@ -18367,8 +18325,7 @@ Cette technique est indiquée chez une victime consciente qui présente
   l’appliquer sur la zone concernée.
 
   - un traumatisme de membre y compris des
-
-articulations, en l’absence de plaie ;
+    articulations, en l’absence de plaie ;
 
 - une piqûre d’insecte.
 
@@ -18532,7 +18489,6 @@ sauveteur, même protégés par des gants.
 La zone lésée doit être entièrement recouverte.
 
 Ne jamais toucher avec les doigts, même recouverts de
-
 gants, la partie du pansement qui entrera en contact avec la zone
 lésée.
 
@@ -18791,7 +18747,6 @@ Le pansement _Type C_
 
 La compresse non absorbante peut servir de support au matériel non
 utilisé.
-
 pansement (pouls, temps de recoloration cutanée, aspect de la peau).
 
 Dans le cas d’un pansement du front ou du cuir chevelu, la technique
@@ -18893,7 +18848,6 @@ dispositif fixé sur la bouteille, appelé détendeur.
   le fournisseur.
 
 Le débit d’oxygène (exprimé en litre par minute ou
-
 l.min-1) administré à la victime est réglé à l’aide d’un appareil,
 appelé débitmètre.
 
@@ -18924,7 +18878,6 @@ La bouteille d’oxygène est fournie avec :
   respecter.
 
 En France, les bouteilles sont blanches, en matière
-
 composite, légères, équipées d’une poignée de transport, d’une gaine
 de protection et d’un chapeau inamovible dans lequel est logé un
 détenteurdébitmètre intégré.
@@ -19225,7 +19178,6 @@ Le membre sectionné est correctement conditionné pour le transport.
 ## Indication Réalisation
 
 La position d’attente et de transport est adaptée à l’état
-
 et à la détresse de la victime ainsi, on distingue, outre la position
 latérale de sécurité :
 
@@ -19251,10 +19203,8 @@ d’accouchement.
 
 - la position cuisses fléchies, jambes repliées. Elle est indiquée pour
   les victimes qui présentent une contusion, une plaie grave de
-
-l’abdomen ou de violentes douleurs abdo-
-
-minales.
+  l’abdomen ou de violentes douleurs abdo-
+  minales.
 
 ## Justification
 
@@ -19456,20 +19406,17 @@ victime paume contre paume.
 
   - maintenir la tête et la main de la victime entre ses mains et
     accompagner le
-
-mouvement en évitant toute torsion du cou.
+    mouvement en évitant toute torsion du cou.
 
 Le retournement de la victime doit être réalisé sans brusquerie, en un
 seul temps. Le maintien de la main et de la tête de la victime vise à
 conserver l’axe de la colonne
-
 s’agit d’une victime traumatisée. Dans le cas contraire, il peut la
 relâcher.
 
 Si la victime présente une lésion thoracique, du membre supérieur ou
 du membre inférieur, elle est couchée, autant que possible, sur le
 côté atteint.
-
 cervicale durant toute la manœuvre et
 
 évite ainsi toute aggravation d’un traumatisme.
@@ -20143,10 +20090,8 @@ celui-ci si la procédure de mise en place n’est pas respectée et
 entraîner douleur et complications.
 
 - rouler l’écharpe dans le sens de la longueur
-
-et la glisser entre les branches montante et
-
-oblique du « N », du côté de la vanne ;
+  et la glisser entre les branches montante et
+  oblique du « N », du côté de la vanne ;
 
 - se placer face au blessé ;
 
@@ -20206,7 +20151,6 @@ L’immobilisation est correcte si :
 ## Indication Réalisation
 
 Les attelles modelables sont utilisées pour assurer
-
 l’immobilisation du coude de l’avant bras et du poignet pour le membre
 supérieur et du genou, de la jambe et de la cheville pour le membre
 inférieur.
@@ -20388,7 +20332,6 @@ procédure de mise en place n’est pas respectée et entraîner douleur et
 complications, cutanées en particulier.
 
 L’attelle modelable est utilisée pour les immobilisations
-
 du membre inférieur en dessous du genou.
 
 La mise en place est réalisée au minimum par trois secouristes :
@@ -20657,7 +20600,6 @@ La main doit être placée légèrement au dessus du niveau du coude.
   ou la fixer avec un ruban adhésif.
 
 Une immobilisation qui bloque les articulations au
-
 dessus et au dessous du traumatisme limite les mouvements, diminue la
 douleur et prévient la survenue de complications.
 
@@ -20726,7 +20668,6 @@ Si le traumatisme de l’épaule provoque une déformation importante
 (bras écarté du corps) placer un rembourrage (tissu roulé) entre le
 bras et le tronc pour respecter la déformation et éviter toute
 mobilisation de
-
 l’articulation. Ne jamais tenter de rapprocher le coude du corps.
 
 ## Risques & contraintes
@@ -20773,7 +20714,6 @@ L’immobilisation est correcte si :
 ## Indication Réalisation
 
 Le plan dur avec immobilisateur de tête est utilisé pour
-
 immobiliser la colonne vertébrale d’une victime, suspecte d’un
 traumatisme de la colonne vertébrale.
 
@@ -20891,7 +20831,6 @@ et utiliser le poids de leur corps pour donner de la force à leur
 mouvement.
 
 La rotation de la victime se fait lentement
-
 en maintenant l’axe-tête-cou-tronc et sous les ordres du
 secouriste 1 ;
 
@@ -20920,10 +20859,8 @@ victime
 
 - contrôler la motricité et la sensibilité de l’extrémité de chaque
   membre.
-
-et d’un bloc ; elle est arrêtée dès que la
-
-victime est sur le côté.
+  et d’un bloc ; elle est arrêtée dès que la
+  victime est sur le côté.
 
 - Le secouriste 1 doit :
 
@@ -20941,11 +20878,9 @@ victime est sur le côté.
   - glisser le plan dur sous le dos de la victime ; Pour cela, ils
     lui donnent une inclinaison de façon à ce qu’il vienne se
     plaquer contre le
-
-blessé et le maintienne dans cette
-
-position et que le coussin de tête soit bien positionné au niveau de
-la tête de la victime.
+    blessé et le maintienne dans cette
+    position et que le coussin de tête soit bien positionné au niveau de
+    la tête de la victime.
 
 - indiquer quand le plan dur est en place.
 
@@ -21159,8 +21094,7 @@ Si la victime retrouvée en position debout est casquée, il convient de
   du plan-dur et de poser ensuite le collier cervical.
 
   - poursuivre le maintien de la tête de la
-
-victime avec son autre main.
+    victime avec son autre main.
 
 2ème secouriste : « Etes vous prêts ? » 1er et 3ème secouristes : «
 Prêts ! »
@@ -21178,8 +21112,7 @@ Des sangles thoraciques trop serrées sont susceptibles d’aggraver une
 détresse respiratoire.
 
 - allonger la victime en basculant en arrière le
-
-plan dur ;
+  plan dur ;
 
 Pendant cette bascule, ils s’assurent que la tête de la victime reste
 au contact du plan dur et dans l’axe du tronc. Pour cela, il faut
@@ -21651,11 +21584,8 @@ de la colonne vertébrale.
 
 Des sangles thoraciques trop serrées sont susceptibles d’aggraver une
 détresse respiratoire.
-
 l’attelle ne bouge pas et ne glisse pas au
-
 cours du déplacement ou du relevage de la
-
 victime.
 
 Eviter de comprimer le thorax et de limiter les mouvements
@@ -21707,8 +21637,7 @@ position neutre et avant tout
 - ajuster la hauteur du collier, si c’est possible (selon le modèle) ;
 
 - fixer les sangles.
-
-déplacement (immobilisation, désincarcération, relevage).
+  déplacement (immobilisation, désincarcération, relevage).
 
 Si la victime est allongée sur le ventre, le collier cervical est
 installé après son retournement.
@@ -22081,9 +22010,8 @@ retirer le casque sans avoir à se reculer ;
 - tirer doucement le casque en arrière en le faisant basculer
   légèrement pour ne pas accrocher le nez de la victime et
   simulta-
-
-nément déposer délicatement la tête sur le sol en la gardant le plus
-possible dans l’axe.
+  nément déposer délicatement la tête sur le sol en la gardant le plus
+  possible dans l’axe.
 
 ## Risques & contraintes
 
@@ -22837,7 +22765,6 @@ Après que le secouriste 1 ait commandé l’arrêt du brancard :
 Après que le secouriste 4 ait lâché le brancard les trois autres
 secouristes terminent le franchissement de l’obstacle et s’arrêtent à
 distance de celui-ci. Le
-
 secouriste 4 peut alors venir se placer entre les deux poignées
 arrières du brancard.
 
@@ -23077,7 +23004,6 @@ sol, chacun reprend sa place initiale.
 
 A proximité du passage étroit, le secouriste 1 fait arrêter la
 progression. Puis, il commande aux secouristes 2 et 3
-
 de passer, l’un après l’autre, à l’intérieur de la hampe du brancard
 sans la lâcher.
 
@@ -23584,7 +23510,6 @@ Les brancards sont équipés ou peuvent s’équiper de sangles de fixation
 de la victime sur le brancard.
 
 Avec les plans durs, des sangles _araignée_
-
 peuvent être utilisées.
 
 ## Réalisation
@@ -24756,7 +24681,6 @@ colonne cervicale, il est préférable que le retournement soit réalisé
 à deux sauveteurs, au moins.
 
 Le retournement s’effectue du coté opposé au visage de
-
 la victime.
 
 - Placer le bras de la victime du coté du retournement audessus de
