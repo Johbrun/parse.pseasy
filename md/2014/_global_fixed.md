@@ -11550,25 +11550,25 @@ douleur ni de sensations particulières. Ce sont :
 
 - l’asymétrie de l’expression faciale.
 
-Elle est recherchée en demandant à la victime de sourire ou de montrer
-les dents.
+  Elle est recherchée en demandant à la victime de sourire ou de montrer
+  les dents.
 
-La réaction est normale si les deux côtés du visage bougent
-symétriquement.
+  La réaction est normale si les deux côtés du visage bougent
+  symétriquement.
 
-Elle est anormale si un des côtés du visage ne suit pas l’autre dans
-ses mouvements.
+  Elle est anormale si un des côtés du visage ne suit pas l’autre dans
+  ses mouvements.
 
 - la faiblesse musculaire d’un membre supérieur. Elle est recherchée
   en demandant à la victime (assise ou allongée) de fermer les yeux
   et
   d’étendre les bras devant elle pendant dix secondes.
 
-La réaction est normale si les deux bras bougent et s’élèvent
-symétriquement.
+  La réaction est normale si les deux bras bougent et s’élèvent
+  symétriquement.
 
-Elle est anormale si un des deux bras ne bouge pas ou ne s’élève pas
-autant que l’autre ou chute progressivement.
+  Elle est anormale si un des deux bras ne bouge pas ou ne s’élève pas
+  autant que l’autre ou chute progressivement.
 
 - l’anomalie de la parole.
 
