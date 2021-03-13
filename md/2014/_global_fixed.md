@@ -170,7 +170,6 @@ Après avoir réalisé un bilan d’urgence vitale et débuté la prise en
 charge d’une éventuelle détresse vitale, le bilan complémentaire
 permet d’effectuer les gestes de secours face à une victime qui
 présente des signes de malaise, d’aggravation d’une maladie ou une ou
-
 plusieurs lésions secondaires à un traumatisme et de recueillir toutes
 les informations nécessaires à la demande d’un avis médical.
 
@@ -11019,16 +11018,6 @@ Cette action est réalisée après avoir soustrait la victime à la cause
 de sa détresse et l’avoir installée dans la position que nécessite son
 état.
 
-- Bonne répartition des charges
-
-Les secouristes doivent être plusieurs (3 à 6) selon les cas; la
-charge doit être rapprochée au maximum des porteurs.
-
-- Synchronisation des mouvements
-
-En équipe les mouvements doivent être doux et synchronisés, sous les
-ordres d’un chef.
-
 L’application des techniques de relevage et de brancardage comporte
 des risques, notamment pour la victime mais aussi pour le secouriste.
 Un bon entraînement et le respect des techniques évitent ou minimisent
@@ -11044,23 +11033,33 @@ A cet effet, il convient de respecter les principes suivants :
 
 - Stabilité des positions et sécurité des mouvements des secouristes
 
-Le secouriste debout doit avoir les pieds écartés, décalés, non
-parallèles.
+  Le secouriste debout doit avoir les pieds écartés, décalés, non
+  parallèles.
 
-A genoux, il se place en position du « trépied », un genou à terre,
-l'autre écarté en dehors des avant-bras.
+  A genoux, il se place en position du « trépied », un genou à terre,
+  l'autre écarté en dehors des avant-bras.
 
-Penché en avant, il garde le dos plat et travaille avec les muscles
-des membres inférieurs, s'éloignant le moins possible de la position
-verticale. Il vaut mieux s'accroupir que se pencher.
+  Penché en avant, il garde le dos plat et travaille avec les muscles
+  des membres inférieurs, s'éloignant le moins possible de la position
+  verticale. Il vaut mieux s'accroupir que se pencher.
 
-Ces principes évitent les « faux mouvements » à l’origine de douleurs
-dorso-lombaires.
+  Ces principes évitent les « faux mouvements » à l’origine de douleurs
+  dorso-lombaires.
 
 - Fermeté des prises
 
-La charge est saisie à pleines mains et non du bout des doigts ; elle
-porte sur les avant-bras et non sur les mains.
+  La charge est saisie à pleines mains et non du bout des doigts ; elle
+  porte sur les avant-bras et non sur les mains.
+
+- Bonne répartition des charges
+
+  Les secouristes doivent être plusieurs (3 à 6) selon les cas; la
+  charge doit être rapprochée au maximum des porteurs.
+
+- Synchronisation des mouvements
+
+  En équipe les mouvements doivent être doux et synchronisés, sous les
+  ordres d’un chef.
 
 ## Règles générales de relevage
 
@@ -11114,8 +11113,8 @@ principes suivants :
   - s’assurer que les mouvements sont exécutés de façon coordonnée,
     afin d’être le plus doux possible pour la victime ;
 
-En cela, les déplacements doivent être réalisés en marchant, sans
-secousses ni balancements.
+    En cela, les déplacements doivent être réalisés en marchant, sans
+    secousses ni balancements.
 
 - placer la tête de la victime vers l’avant, en règle générale.
 
@@ -11126,18 +11125,18 @@ surveiller la victime comme les secouristes. Il doit :
 
   - se placer, en général, à l’arrière ;
 
-Ce positionnement lui permet d’avoir une vision sur l’ensemble de son
-équipe d’une part, tout en pouvant exercer une surveillance constante
-de la victime, d'autre part.
+    Ce positionnement lui permet d’avoir une vision sur l’ensemble de son
+    équipe d’une part, tout en pouvant exercer une surveillance constante
+    de la victime, d'autre part.
 
-- commander l'équipe de secouristes dans chacune des actions à
-  conduire ;
+  - commander l'équipe de secouristes dans chacune des actions à
+    conduire ;
 
-Le commandement se fait, le plus souvent en deux temps. L’ordre
-d’exécution étant précédé d'un ordre préparatoire.
+    Le commandement se fait, le plus souvent en deux temps. L’ordre
+    d’exécution étant précédé d'un ordre préparatoire.
 
-Les ordres sont donnés à haute et intelligible voix, afin d’être
-entendus par tous les membres de l’équipe.
+    Les ordres sont donnés à haute et intelligible voix, afin d’être
+    entendus par tous les membres de l’équipe.
 
 ## Matériel de relevage et de brancardage
 
@@ -11156,42 +11155,38 @@ Les modèles de brancards les plus couramment rencontrés sont :
 
 - le brancard pliant à compas sans têtière.
 
-C’est un brancard plat dont le fond est en toile ou en toile
-plastifiée. Les hampes sont en bois ou en métal, munies de pieds fixes
-et réunies par des compas métalliques permettant de plier le brancard
-dans le sens de largeur (transport à vide et stockage). II peut être
-muni de bretelles pour le brancardage à trois.
+  C’est un brancard plat dont le fond est en toile ou en toile
+  plastifiée. Les hampes sont en bois ou en métal, munies de pieds fixes
+  et réunies par des compas métalliques permettant de plier le brancard
+  dans le sens de largeur (transport à vide et stockage). II peut être
+  muni de bretelles pour le brancardage à trois.
 
 - le brancard dit _principal1._
 
-Ce brancard est muni de roues et peut être utilisé seul, ou combiné à
-un chariot de transport.
+  Ce brancard est muni de roues et peut être utilisé seul, ou combiné à
+  un chariot de transport.
 
-Muni d'un dossier (appelé appui-tête), il permet la position
-demi-assise, et peut être complété d’un repose-pied (brancard
-articulé).
+  Muni d'un dossier (appelé appui-tête), il permet la position
+  demi-assise, et peut être complété d’un repose-pied (brancard
+  articulé).
 
-La zone du thorax est rigide pour permettre de réaliser une RCP, il
-est recouvert d’un matelas de transport et parfois d’appuis latéraux
-rabattables.
+  La zone du thorax est rigide pour permettre de réaliser une RCP, il
+  est recouvert d’un matelas de transport et parfois d’appuis latéraux
+  rabattables.
 
 - les brancards dits de _catastrophe_.
 
-II s'agit de brancards plats, rigides, aisément empilables, dont le
-stockage et le transport à vide peuvent être faits sous faible volume.
+  II s'agit de brancards plats, rigides, aisément empilables, dont le
+  stockage et le transport à vide peuvent être faits sous faible volume.
 
 - Le brancard pour aéronefs.
 
-Certains aéronefs en version sanitaire sont munis de brancards
-spéciaux, plus étroits.
+  Certains aéronefs en version sanitaire sont munis de brancards
+  spéciaux, plus étroits.
 
 Outre les brancards, la chaise de transport permet de répondre à une
 difficulté réelle de brancardage en étages, dans les immeubles sans
 ascenseur ou aux escaliers ou ascenseurs étroits.
-
-1.  Ce brancard répond à la norme NF EN 1865 - Décembre 1999 - relative
-    aux spécifications des brancards et équipement d’ambulances pour
-    le transport de patients
 
 Elle peut être utilisée pour une victime sans atteinte grave, qui peut
 se tenir assise et qui ne présente aucune détresse.
@@ -11205,140 +11200,116 @@ utilisés2 :
 
 - Le brancard _cuillère._
 
-Ce dispositif est constitué de deux parties qu'on glisse latéralement
-sous le blessé, puis qu'on réunit pour constituer un brancard rigide.
+  Ce dispositif est constitué de deux parties qu'on glisse latéralement
+  sous le blessé, puis qu'on réunit pour constituer un brancard rigide.
 
-Ce matériel, en métal inoxydable ou en PVC, est constitué :
+  Ce matériel, en métal inoxydable ou en PVC, est constitué :
 
-- d'un cadre tubulaire, large de 43 cm au niveau du tronc, dont les
+  - d'un cadre tubulaire, large de 43 cm au niveau du tronc, dont les
 
-  montants permettent le portage ;
+    montants permettent le portage ;
 
-- de lames pleines, légèrement incurvées, inclinées vers l'intérieur,
-  permettant la
+  - de lames pleines, légèrement incurvées, inclinées vers l'intérieur,
+    permettant la « cueillette » de la victime.
 
-« cueillette » de la victime.
+  Le cadre tubulaire est réglable en longueur et permet, par deux
+  systèmes à encliquetage et articulés, l'ouverture en éventail ou la
+  dissociation du brancard en deux parties.
 
-Le cadre tubulaire est réglable en longueur et permet, par deux
-systèmes à encliquetage et articulés, l'ouverture en éventail ou la
-dissociation du brancard en deux parties.
+  Trois sangles permettent l'arrimage de la victime.
 
-Trois sangles permettent l'arrimage de la victime.
+  La forme _en auge_ et les possibilités d'ouverture permettent de
+  glisser les lames sous la victime sans la soulever.
 
-La forme _en auge_ et les possibilités d'ouverture permettent de
-glisser les lames sous la victime sans la soulever.
+  Le stockage peut s'effectuer en position repliée.
 
-Le stockage peut s'effectuer en position repliée.
-
-Ce dispositif est surtout utilisé pour relever une victime et la
-transférer sur un autre moyen de transport.
+  Ce dispositif est surtout utilisé pour relever une victime et la
+  transférer sur un autre moyen de transport.
 
 - _L’alèse portoir._
 
-Elle est constituée d'un rectangle de toile épaisse, solide,
-plastifiée, radio-transparente, dont la dimension correspond à la
-surface utile du brancard.
+  Elle est constituée d'un rectangle de toile épaisse, solide,
+  plastifiée, radio-transparente, dont la dimension correspond à la
+  surface utile du brancard.
 
-Elle est munie de poignées latérales renforcées de sangles de toile,
-dans le sens transversal et parfois longitudinal. Les poignées sont au
-nombre de 6 ou 8 symétriques ou dissymétriques.
+  Elle est munie de poignées latérales renforcées de sangles de toile,
+  dans le sens transversal et parfois longitudinal. Les poignées sont au
+  nombre de 6 ou 8 symétriques ou dissymétriques.
 
-Elle est principalement utilisée comme dispositif de transfert. Placée
-à l'avance sur le brancard, sous la couverture, elle permet :
+  Elle est principalement utilisée comme dispositif de transfert. Placée
+  à l'avance sur le brancard, sous la couverture, elle permet :
 
-- de faire glisser le blessé d'un brancard sur un autre ;
+  - de faire glisser le blessé d'un brancard sur un autre ;
 
-- de faire passer le blessé du brancard sur un lit, une table d'examen
-  ou de radiologie.
+  - de faire passer le blessé du brancard sur un lit, une table d'examen
+    ou de radiologie.
 
-Elle est utilisée isolément et de façon transitoire pour transporter
-une victime (qui ne présente pas de lésions traumatiques) jusqu’au
-brancard si on ne peut amener ce dernier à la victime.
+  Elle est utilisée isolément et de façon transitoire pour transporter
+  une victime (qui ne présente pas de lésions traumatiques) jusqu’au
+  brancard si on ne peut amener ce dernier à la victime.
 
-Elle est lavable, stockable sous faible volume, mais ne constitue pas
-un plan dur, rigide.
+  Elle est lavable, stockable sous faible volume, mais ne constitue pas
+  un plan dur, rigide.
 
 - Le brancard _Piguilem._
 
-Ce brancard est formé par un cadre tubulaire métallique, monté sur
-patins.
+  Ce brancard est formé par un cadre tubulaire métallique, monté sur
+  patins.
 
-Sur le devant, est fixée une plaque en matière plastique assurant la
-protection de la toile et de la victime et facilitant le glissement.
-Léger, il est adapté au treuillage ou au glissage, sur neige par
-exemple.
+  Sur le devant, est fixée une plaque en matière plastique assurant la
+  protection de la toile et de la victime et facilitant le glissement.
+  Léger, il est adapté au treuillage ou au glissage, sur neige par
+  exemple.
 
-A été également mis au point un brancard claie de portage _Pigui 3_,
-dérivé du premier, mais formé de deux éléments tubulaires facilitant
-le portage.
+  A été également mis au point un brancard claie de portage _Pigui 3_,
+  dérivé du premier, mais formé de deux éléments tubulaires facilitant
+  le portage.
 
 - La barquette.
 
-La barquette est un dispositif rigide de transport de victime, muni de
-bords sur ses quatre côtés et de sangles d’immobilisation.
+  La barquette est un dispositif rigide de transport de victime, muni de
+  bords sur ses quatre côtés et de sangles d’immobilisation.
 
-Elle présente quatre anneaux de fixation pour les élingues de
-treuillage ou d’hélitreuillage.
+  Elle présente quatre anneaux de fixation pour les élingues de
+  treuillage ou d’hélitreuillage.
 
-Certains modèles sont constitués de deux parties détachables, pour
-faciliter leur portage à vide.
+  Certains modèles sont constitués de deux parties détachables, pour
+  faciliter leur portage à vide.
 
 - Les civières pour hélicoptères.
 
-Pour le transport en hélicoptère moyen ou léger, il est nécessaire de
-transférer la victime sur la civière de l'appareil (d'où l'intérêt du
-portoir). Seuls les hélicoptères lourds acceptent les brancards
-normalisés.
+  Pour le transport en hélicoptère moyen ou léger, il est nécessaire de
+  transférer la victime sur la civière de l'appareil (d'où l'intérêt du
+  portoir). Seuls les hélicoptères lourds acceptent les brancards
+  normalisés.
 
 - La gouttière _Bellisle_ (ou _portoir corset_).
 
-La gouttière _Bellisle_ est couramment utilisée sur les bâtiments de
-la Marine nationale. Il s’agit d’un dispositif d’immobilisation et de
-transport de victime qui facilite l’évacuation en passant par des
-passages étroits (ascenseur, escalier, trou d’homme).
+  La gouttière _Bellisle_ est couramment utilisée sur les bâtiments de
+  la Marine nationale. Il s’agit d’un dispositif d’immobilisation et de
+  transport de victime qui facilite l’évacuation en passant par des
+  passages étroits (ascenseur, escalier, trou d’homme).
 
+  Elle est composée d’une enveloppe souple en toile lavable rigidifiée
+  dans le sens de la longueur par des lamelles placées entre deux
+  épaisseurs de toile. Elle dispose d’un dispositif de contention de la
+  victime dans toutes les positions, et possède un système de portage
+  par poignées et hampes amovibles et un
+
+  système permettant le hissage en position verticale ou horizontale
+  (sangles longitudinales).
+
+  Une fois la victime déposée sur la gouttière, cette dernière s’enroule
+  autour de la victime assurant ainsi sa protection contre les chocs
+  tout en la gardant sur un plan dur.
+
+1.  Ce brancard répond à la norme NF EN 1865 - Décembre 1999 - relative
+    aux spécifications des brancards et équipement d’ambulances pour
+    le transport de patients
 2.  Le plan-dur ainsi que le matelas immobilisateur à dépression, sont
     deux dispositifs de portage couramment utilisés. Ils ne sont pas
     développés dans la présente partie mais font l’objet d’une
     présentation détaillée sur les fiches techniques _ad-hoc_
-
-Elle est composée d’une enveloppe souple en toile lavable rigidifiée
-dans le sens de la longueur par des lamelles placées entre deux
-épaisseurs de toile. Elle dispose d’un dispositif de contention de la
-victime dans toutes les positions, et possède un système de portage
-par poignées et hampes amovibles et un
-
-système permettant le hissage en position verticale ou horizontale
-(sangles longitudinales).
-
-Une fois la victime déposée sur la gouttière, cette dernière s’enroule
-autour de la victime assurant ainsi sa protection contre les chocs
-tout en la gardant sur un plan dur.
-
-## Situations particulières
-
-<table>
-<tbody>
-<tr class="odd">
-<td><blockquote>
-<p>AC</p>
-</blockquote></td>
-<td><blockquote>
-<p>10</p>
-</blockquote></td>
-<td>S</td>
-<td><blockquote>
-<p>01</p>
-</blockquote></td>
-<td><blockquote>
-<p>Situations à nombreuses victimes</p>
-</blockquote></td>
-<td><blockquote>
-<p>1.1.1 Septembre 2014</p>
-</blockquote></td>
-</tr>
-</tbody>
-</table>
 
 <table>
 <tbody>
@@ -11468,7 +11439,6 @@ Les blessés ne sont pas les seules victimes à prendre en charge. Un
 grand nombre de personnes, non blessées, sont tout de même considérées
 comme victimes de la catastrophe car elles auront un proche perdu de
 vue, tué ou blessé, ou bien parce qu’elles auront assisté à
-
 des scènes difficilement supportables, perdu un bien matériel
 important (habitation détruite…). Victimes d’un traumatisme psychique,
 ces personnes présentent des manifestations caractéristiques que les
